@@ -14,9 +14,9 @@ This project fetches real-time news articles from multiple sources using the New
 
 | Technology                              | Purpose                                   |
 | --------------------------------------- | ----------------------------------------- |
-| **HTML5**                               | Structure and layout                      |
-| **CSS3**                                | Styling and responsiveness                |
-| **JavaScript (ES6)**                    | Logic, API integration, and interactivity |
+| **HTML**                                | Structure and layout                      |
+| **CSS**                                 | Styling and responsiveness                |
+| **JavaScript**                          | Logic, API integration, and interactivity |
 | **[NewsAPI.org](https://newsapi.org/)** | Real-time news data source                |
 
 # Preview
